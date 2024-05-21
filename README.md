@@ -39,8 +39,8 @@ The Mentor-Student Node.js App is a web application built with Node.js, Express,
 
 Feel free to reach out if you have any questions or suggestions:
 
-- [GitHub](https://github.com/Suryaprakash-G26)
-- [LinkedIn](https://www.linkedin.com/in/surya-prakash-6b2914191/)
+- [GitHub](https://github.com/Pandiaraj-22)
+- [LinkedIn](https://www.linkedin.com/in/pandiaraj-m-4531b6285)
 
 Happy coding! 🚀
 
