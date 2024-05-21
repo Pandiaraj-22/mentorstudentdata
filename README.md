@@ -29,7 +29,7 @@ The Mentor-Student Node.js App is a web application built with Node.js, Express,
 
 
 ###images
-![image](https://github.com/Suryaprakash-G26/mentorstudent/assets/141228691/0b691091-0b6a-48f7-b48b-7c1cb59fc7b3)
+![image](./controllers/images/Screenshot.png)
 
 
 ### deployed Link 
